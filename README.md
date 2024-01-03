@@ -1,10 +1,16 @@
 ### Hi there 👋
 <body>
   <div align="center">
-    <p>저는 황준범입니다.</p>
+    <h2>저는 황준범입니다.</h2>
     <p>DISIGN STACK</p>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white">
+    <br>
+    <br>
+    <p>IDE STACK</p>
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
     <br>
     <br>
     <p>CODING STACK</p>
